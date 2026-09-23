@@ -4,6 +4,7 @@ int main(void) {
     return 0;
 }
 
+// Print a greeting message forthe specified user
 int greeting(const char *name)
 {
     printf("Hello, %s!\n", name);
